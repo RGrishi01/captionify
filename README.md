@@ -1,6 +1,6 @@
 # Captionify
 
-training an image-to-caption model, that can produce descriptions for real world images!
+Training an image-to-caption model, that can produce descriptions for real world images!
 
 <img src="https://github.com/magusverma/Image-Captioning/blob/master/encoder_decoder.png?raw=1" style="width:70%">
 
